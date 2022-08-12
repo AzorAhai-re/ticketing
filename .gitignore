@@ -1,0 +1,9 @@
+# Files
+package-lock.json
+.env
+
+# Dirs
+artifacts
+cache
+node_modules
+typechain-types
